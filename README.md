@@ -19,3 +19,5 @@ I'm Barış from Turkey and I'm a first grade computer engineering student at Es
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-atasoy&show_icons=true)  
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=the=atasoy&theme=github-compact	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
