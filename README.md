@@ -1,6 +1,6 @@
 I'm Barış from Turkey and I'm a first grade computer engineering student at Eskişehir Technical University. I enjoy producing programs and learning new things about codding.
 
-<img src="https://github.com/the-atasoy/the-atasoy/blob/main/git.gif" width="800"/>
+<img src="https://github.com/the-atasoy/the-atasoy/blob/main/git.gif" width="800", justify="center"/>
 
 ### Skills and Experience
 * 🐍 Python
