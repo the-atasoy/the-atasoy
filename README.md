@@ -1,7 +1,9 @@
 I'm Barış from Turkey and I'm a first grade computer engineering student at Eskişehir Technical University. I enjoy producing programs and learning new things about codding.
 
+<img src="https://github.com/the-atasoy/the-atasoy/blob/main/git.gif" width="800"/>
+
 <p align="center">
-  <img width="800" src="[http://www.fillmurray.com/460/300](https://github.com/the-atasoy/the-atasoy/blob/main/git.gif)">
+  <img width="800" src="https://github.com/the-atasoy/the-atasoy/blob/main/git.gif">
 </p>
 
 ### Skills and Experience
