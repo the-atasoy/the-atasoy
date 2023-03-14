@@ -1,6 +1,6 @@
-I'm Barış from Turkey and I'm a first grade computer engineering student at Eskişehir Technical University. I enjoy producing programs and learning new things about codding.
+### print("Hello World")
 
-<img src="https://github.com/the-atasoy/the-atasoy/blob/main/git.gif" width="800"/>
+I'm Barış from Turkey and I'm a first grade computer engineering student at Eskişehir Technical University. I enjoy producing programs and learning new things about codding.
 
 <p align="center">
   <img width="800" src="https://github.com/the-atasoy/the-atasoy/blob/main/git.gif">
@@ -18,6 +18,4 @@ I'm Barış from Turkey and I'm a first grade computer engineering student at Es
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-atasoy&show_icons=true)  
-
-
 
