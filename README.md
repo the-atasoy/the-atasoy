@@ -9,6 +9,8 @@ I'm Barış from Turkey and I'm a first grade computer engineering student at Es
 ### Skills and Experience
 * 🐍 Python
 * ☕ Java
+* #️⃣C#
+* SQL
  
 
 How to reach me: barisatasoy2917@gmail.com 
