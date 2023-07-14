@@ -1,6 +1,6 @@
 ### Hello World 👋🏽
 
-Computer engineering student at Eskişehir Technical University and .net Web Developer at Ford Otosan.
+Computer engineering student at Eskişehir Technical University and .Net Web Developer at Ford Otosan.
 <p align="center">
   <img width="800" src="https://github.com/the-atasoy/the-atasoy/blob/main/git.gif">
 </p>
