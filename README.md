@@ -1,7 +1,6 @@
 ### Hello World 👋🏽
 
-I'm Barış from Turkey and I'm a first grade computer engineering student at Eskişehir Technical University. I enjoy producing programs and learning new things about coding.
-
+Computer engineering student at Eskişehir Technical University and .net Web Developer at Ford Otosan.
 <p align="center">
   <img width="800" src="https://github.com/the-atasoy/the-atasoy/blob/main/git.gif">
 </p>
