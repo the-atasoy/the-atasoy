@@ -9,7 +9,8 @@ Computer engineering student at Eskişehir Technical University and .net Web Dev
 * 🐍 Python
 * ☕ Java
 * #️⃣C#
-* SQL
+* 📊 SQL
+* .Net
  
 
 How to reach me: barisatasoy2917@gmail.com 
