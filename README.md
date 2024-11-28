@@ -4,7 +4,13 @@ I'm a software developer at Ford Otosan and a computer engineering student at Es
 <p align="center">
   <img width="800" src="https://github.com/the-atasoy/the-atasoy/blob/main/git.gif">
 </p>
- 
+
+ ### Skills and Experience
+* 🐍 Python
+* ☕ Java
+* #️⃣C#
+* 📊 SQL
+* .Net
 
 How to reach me: barisatasoy2917@gmail.com 
 
