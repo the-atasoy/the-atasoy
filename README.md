@@ -5,13 +5,13 @@ I'm a software developer at Ford Otosan and a computer engineering student at Es
   <img width="800" src="https://github.com/the-atasoy/the-atasoy/blob/main/git.gif">
 </p>
 
- ### Skills and Experience
-* .NET (Core, Framework)
-* Microservices & RabbitMQ
-* Docker
-* Kubernetes
-* SQL/PLSQL
-* React
+## Skills and Experience
+* .NET (Core, Framework) ⚙️
+* Microservices & RabbitMQ 🔄
+* Docker 🐳
+* Kubernetes ☸️
+* SQL/PLSQL 📊
+* React ⚛️
 
 How to reach me: barisatasoy2917@gmail.com 
 
