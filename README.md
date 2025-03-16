@@ -6,11 +6,12 @@ I'm a software developer at Ford Otosan and a computer engineering student at Es
 </p>
 
  ### Skills and Experience
-* 🐍 Python
-* ☕ Java
-* #️⃣C#
-* 📊 SQL
-* .Net
+* .NET (Core, Framework)
+* Microservices & RabbitMQ
+* Docker
+* Kubernetes
+* SQL/PLSQL
+* React
 
 How to reach me: barisatasoy2917@gmail.com 
 
