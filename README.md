@@ -8,6 +8,7 @@ I'm a software developer at Ford Otosan and a computer engineering student at Es
 ## Skills and Experience
 * .NET (Core, Framework) ⚙️
 * Microservices & RabbitMQ 🔄
+* Azure DevOps 🛠️
 * Docker 🐳
 * Kubernetes ☸️
 * SQL/PLSQL 📊
